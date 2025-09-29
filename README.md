@@ -8,6 +8,9 @@
 - Linkedin: (www.linkedin.com/in/ezequiel-mendoza-c452)
 - UTRGV email: (ezequiel.mendoza01@utrgv.edu)
 
+### Programming Languages
+- C++
+- Java
 <!--
 **mendozaezequiel310-blip/mendozaezequiel310-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
