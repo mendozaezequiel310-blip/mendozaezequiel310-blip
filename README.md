@@ -4,6 +4,10 @@
 ### What I Am Doing Currently
 - Currently, I am pursuing a bachelor's degree in Computer Science at the University of Texas Rio Grande Valley. I am interested in artificial intelligence and software development.
 
+### Contact Info
+- Linkedin: (www.linkedin.com/in/ezequiel-mendoza-c452)
+- UTRGV email: (ezequiel.mendoza01@utrgv.edu)
+
 <!--
 **mendozaezequiel310-blip/mendozaezequiel310-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
