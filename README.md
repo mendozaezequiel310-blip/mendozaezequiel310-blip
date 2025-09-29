@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+
+
+### What I Am Doing Currently
+- Currently, I am pursuing a bachelor's degree in Computer Science at the University of Texas Rio Grande Valley. I am interested in artificial intelligence and software development.
 
 <!--
 **mendozaezequiel310-blip/mendozaezequiel310-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
