@@ -1,6 +1,6 @@
 ## Hi, I'm Ezequiel Mendoza
 
-**Computer Science Undergraduate at UTRGV | Gates Scholar**
+**Computer Science Undergraduate at UTRGV | Gates Scholar (VIII)**
 
 ## Current Technical Focus
 
