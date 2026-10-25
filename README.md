@@ -1,16 +1,21 @@
-## About Me
+## Hi, I'm Ezequiel Mendoza
 
+**Computer Science Undergraduate at UTRGV | Gates Scholar**
 
-### What I Am Doing Currently
-- Currently, I am pursuing a bachelor's degree in Computer Science at the University of Texas Rio Grande Valley. I am interested in artificial intelligence and software development.
+## Current Technical Focus
+
+* **Mathematical Computing:** Translating Linear Algebra matrices and Discrete Math into parallel processing routines using Python & NumPy.
+
+* **Full-Stack Architecture:** Building decoupled applications with fast backend APIs (FastAPI/Django) and high-fidelity frontends (React/Vite).
 
 ### Contact Info
-- Linkedin: (www.linkedin.com/in/ezequiel-mendoza-c452)
-- UTRGV email: (ezequiel.mendoza01@utrgv.edu)
 
-### Programming Languages
-- C++
-- Java
+* **Linkedin:** (www.linkedin.com/in/ezequiel-mendoza-c452)
+* **UTRGV Email:** (ezequiel.mendoza01@utrgv.edu)
+
+### Tech Stack & Skills
+* **Languages:** Python, Java, C++, HTML5, CSS3, JavaScript, Spanish
+* **Frameworks & Tools:** React.js, FastAPI, Django, NumPy, Pydantic, Git, GitHub, VS Code
 <!--
 **mendozaezequiel310-blip/mendozaezequiel310-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
